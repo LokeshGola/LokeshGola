@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lokesh Gola</h1>
 <h3 align="center">A passionate backend developer from Faridabad (Haryana)</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgola&theme=onedark" alt="lokeshgola" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Multi-threading**
