@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Gola</h1>
-<h3 align="center">A passionate backend developer from Faridabad (Haryana)</h3>
+<h3 align="center">A passionate backend developer from Faridabad (Haryana).</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+<img align="right" alt="coding"  width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgola&theme=onedark" alt="lokeshgola" /></a> </p>
 
@@ -26,9 +26,9 @@
 <p><a href="https://www.buymeacoffee.com/Lokesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lokesh" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshgola&show_icons=true&locale=en&layout=compact" alt="lokeshgola" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshgola&show_icons=true&locale=en&layout=compact" alt="lokeshgola" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshgola&show_icons=true&locale=en" alt="lokeshgola" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=lokeshgola&show_icons=true&locale=en" alt="lokeshgola" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgola&" alt="lokeshgola" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgola&" alt="lokeshgola" /></p>
 
