@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Gola</h1>
 <h3 align="center">A passionate backend developer from Faridabad (Haryana)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgola" alt="lokeshgola" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgola&&theme=orange" alt="lokeshgola" /></a> </p>
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Multi-threading**
 
