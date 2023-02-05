@@ -26,9 +26,9 @@
 <p><a href="https://www.buymeacoffee.com/Lokesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lokesh" /></a></p><br><br>
 
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshgola&show_icons=true&locale=en&layout=compact" alt="lokeshgola" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshgola&show_icons=true&locale=en&layout=compact&theme=radical" alt="lokeshgola" /></p>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=lokeshgola&show_icons=true&locale=en" alt="lokeshgola" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=lokeshgola&show_icons=true&locale=en&theme=radical" alt="lokeshgola" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgola&" alt="lokeshgola" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgola&&theme=radical" alt="lokeshgola" /></p>
 
