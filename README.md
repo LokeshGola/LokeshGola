@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LokeshGola/LokeshGola.github.io](https://github.com/LokeshGola/LokeshGola.github.io)
 
-- 📫 How to reach me <p>lokeshgola121@gmail.com</p>
+- 📫 How to reach me lokeshgola121@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr](https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr)
 
