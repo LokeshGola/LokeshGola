@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot, SQL, MySQL, Hibernate, Multi-threading**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LokeshGola/LokeshGola.github.io](https://LokeshGola.github.io)
+- 👨‍💻 All of my projects are available at [https://LokeshGola.github.io](https://LokeshGola.github.io)
 
 - 📫 How to reach me <span> **lokeshgola121@gmail.com** </span>
 
