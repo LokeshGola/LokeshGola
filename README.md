@@ -28,7 +28,7 @@
 <p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lokesh" /></a></p><br><br>
 
 <!-- Most used language -->
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshgola&show_icons=true&locale=en&layout=compact&theme=radical" alt="lokeshgola" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="lokeshgola" /></p>
 <!-- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGola&langs_count=8&count_private=true&layout=compact&theme=nuxt&bg_color=FFFFFF" alt="lokeshgola" /></p>
  -->
  
@@ -37,3 +37,8 @@
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgola&&theme=radical" alt="lokeshgola" /></p>
 
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
