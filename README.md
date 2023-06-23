@@ -9,7 +9,7 @@
 
 <!--============= Portfolio Link ============-->
 <!-- - 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io) -->
-- 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io)
+- 👨‍💻 All of my projects are available at https://LokeshGola.github.io
   
 - 📫 How to reach me <span> **lokeshgola121@gmail.com** </span>
 
