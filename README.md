@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Multi-threading, RDBMS, SQL, MySQL, JDBC, Hibernate, Maven, Spring, Spring Boot, REST API, Spring Security, Unit Testing**
 
-- 👨‍💻 All of my projects are available at [https://lokeshgola.github.io]
+<!-- - 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io) -->
 
 - 📫 How to reach me <span> **lokeshgola121@gmail.com** </span>
 
