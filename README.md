@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Gola</h1>
-<h3 align="center">A passionate backend developer from Faridabad (Haryana).</h3>
+<h3 align="center">Diligent and adaptable Java Backend Developer proficient in Core Java, Spring, Spring Boot, and MySQL. Demonstrated expertise in solo and collaborative project development. Eager to harness Generative AI and Prompt Engineering for rapid tech stack acquisition and contribute to innovative solutions.</h3>
 
 <img align="centre" alt="coding"  width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
