@@ -8,9 +8,9 @@ to innovative solutions. </h3>
 
 <img align="centre" alt="coding"  width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LokeshGola&theme=onedark" alt="lokeshgola" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LokeshGola&theme=onedark" alt="lokeshgola" /></a> </p> -->
 
-- 🌱 I’m currently learning **Java, Multi-threading, RDBMS, SQL, MySQL, JDBC, Hibernate, Maven, Spring, Spring Boot, REST API, Spring Security, Unit Testing**
+- 🌱 I’m currently learning **Java, Multi-threading, RDBMS, SQL, MySQL, JDBC, Hibernate, Maven, Spring, Spring Boot, REST API, Spring Security, Unit Testing, Generative AI and Prompt Engineering**
 
 <!--============= Portfolio Link ============-->
 <!-- - 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io) -->
