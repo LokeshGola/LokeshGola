@@ -23,8 +23,10 @@ to innovative solutions. </h3>
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr](https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr)
 
 <h3 align="left">Connect with me:</h3>
+Mail : <span> lokeshgola121@gmail.com </span>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh-gola-712581240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-gola-712581240" height="30" width="40" /></a>
+<span> https://www.linkedin.com/in/lokesh-gola-712581240/ </span>
 </p>
 
 <!--============= Language and Tools =============-->
