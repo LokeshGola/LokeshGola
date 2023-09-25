@@ -16,7 +16,9 @@ to innovative solutions. </h3>
 <!-- - 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io) -->
 - 👨‍💻 All of my projects are available at https://LokeshGola.github.io
   
-- 📫 How to reach me <span> **lokeshgola121@gmail.com** </span>
+- 📫 How to reach me:
+  - Mail <span> **lokeshgola121@gmail.com** </span>
+  - LinkedIn <span> **https://www.linkedin.com/in/lokesh-gola-712581240/** </span>
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr](https://drive.google.com/drive/folders/1Hi98dYBST6jENtydh2xQ0DRjW2DWgyhr)
 
