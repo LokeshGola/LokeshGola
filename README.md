@@ -10,7 +10,33 @@ to innovative solutions. </h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LokeshGola&theme=onedark" alt="lokeshgola" /></a> </p> -->
 
-- 🌱 I’m currently learning **Java, Multi-threading, RDBMS, SQL, MySQL, JDBC, Hibernate, Maven, Spring, Spring Boot, REST API, Spring Security, Unit Testing, Generative AI and Prompt Engineering**
+<!-- - 🌱 I’m currently learning **Java, Multi-threading, RDBMS, SQL, MySQL, JDBC, Hibernate, Maven, Spring, Spring Boot, REST API, Spring Security, Unit Testing, Generative AI and Prompt Engineering**  -->
+
+<h1 align="left">💼 Work Experience</h1>
+<h3>🔹 Software Engineer — Techcanopy Software Lab, Bengaluru</h3>
+<h5>Project - Finzy (Fintech App)</h5>
+<p><em>Nov 2023 – Sep 2025</em></p>
+<ul>
+  <li> Developed and maintained backend services using Java, Spring Boot, and RESTful APIs.</li>
+  <li> Built customized business reports and insights using Java, MongoDB, and PostgreSQL to support client-specific operations and compliance requirements.</li>
+  <li> Managed the onboarding process for channel partners, aligning them with required technical specifications to ensure smooth integration and functionality with the app.</li>
+  <li> Collaborated with frontend and DevOps teams to ensure seamless integration and CI/CD deployment.</li>
+  <li> Optimized existing REST APIs for scalability and performance, reducing response times and increasing transaction throughput during peak periods.</li>
+  <li> Resolved critical production issues promptly, ensuring minimal downtime and seamless user experience for clients using the fintech app.</li>
+  <li> Wrote unit and integration tests using JUnit and Mockito to ensure code quality and robustness.</li>
+</ul>
+
+<h3>🔹 Trained Graduate Teacher – Science</h3>
+<h5>Dronacharya Public School, Faridabad</h5>
+<p><em>MAY 2018 - APR 2021</em></p>
+<ul>
+  <li> Taught Physics and Chemistry to classes 8–10, adapting complex concepts into engaging lesson plans.</li>
+  <li> Used digital learning platforms to enhance understanding, fostering a 20% improvement in class performance.</li>
+  <li> Mentored students in STEM activities, encouraging analytical thinking and problem-solving skills.</li>
+</ul>
+<br>
+<hr>
+  
 
 <!--============= Portfolio Link ============-->
 <!-- - 👨‍💻 All of my projects are available at [https://lokeshgola.github.io](https://lokeshgola.github.io) -->
