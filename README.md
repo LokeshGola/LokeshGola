@@ -25,6 +25,7 @@ to innovative solutions. </h3>
   <li> Resolved critical production issues promptly, ensuring minimal downtime and seamless user experience for clients using the fintech app.</li>
   <li> Wrote unit and integration tests using JUnit and Mockito to ensure code quality and robustness.</li>
 </ul>
+<br>
 
 <h3>🔹 Trained Graduate Teacher – Science</h3>
 <h5>Dronacharya Public School, Faridabad</h5>
