@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Gola</h1>
-<h3 align="center">Diligent and adaptable Java Backend Developer proficient
-in Core Java, Spring, Spring Boot, and MySQL.
+<h3 align="center">Diligent and adaptable Java Backend Developer with 2.5 years of experience, 
+proficient in Core Java, Spring, Spring Boot, and PostgreSQL.
 Demonstrated expertise in solo and collaborative project
 development. Eager to harness Generative AI and Prompt
 Engineering for rapid tech stack acquisition and contributing
